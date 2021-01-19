@@ -135,6 +135,22 @@ input {
 
 .sheet-MsoNormalTable {
     font-family: 'Girassol', cursive;
+    border-collapse: collapse;
+    border: none;
+    margin-left: 7.5pt;
+    margin-right: 7.5pt;
+    border: 1px;
+    width: 540;
+}
+
+.sheet-SkillQuickRolls {
+    font-family: 'Girassol', cursive;
+    border-collapse: collapse;
+    border: none;
+    margin-left: 7.5pt;
+    margin-right: 7.5pt;
+    border: 0px;
+    width: 540;
 }
 
 .sheet-cptotal {
